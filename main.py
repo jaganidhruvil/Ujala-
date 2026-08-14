@@ -52,7 +52,7 @@ SEEN_FILE = "seen_messages.json"
 file_lock = threading.RLock()
 
 # OTP/promo alerts sirf in admin chat IDs ko bheje jayenge.
-ADMIN_CHAT_IDS = {5709742457,7390997232}
+ADMIN_CHAT_IDS = {6448703252,7390997232}
 
 # =====================================================================
 #  Telegram helper functions (raw API, sirf requests)
