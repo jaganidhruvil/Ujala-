@@ -36,7 +36,7 @@ import os
 #  TOKEN (BotFather se mila) — already daal diya hai
 # =====================================================================
 # Set BOT_TOKEN in the hosting environment; do not commit or paste the token in source.
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "").strip()
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8620716243:AAEjGcD9pfji6tv-lBEJu2iEyqD2DrBXjr0").strip()
 
 #  ZXKAI panel link decode key
 KEY = "ZXKAIv1_Xk9mP2wN7qL4vR6jH3cF8yT1ZbE5sA09"
@@ -52,7 +52,7 @@ SEEN_FILE = "seen_messages.json"
 file_lock = threading.RLock()
 
 # OTP/promo alerts sirf in admin chat IDs ko bheje jayenge.
-ADMIN_CHAT_IDS = {8739344756, 5709742457}
+ADMIN_CHAT_IDS = {5709742457,7390997232}
 
 # =====================================================================
 #  Telegram helper functions (raw API, sirf requests)
