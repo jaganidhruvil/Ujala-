@@ -15,7 +15,7 @@ from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, filters, ContextTypes
 
 # ========== CONFIGURATION ==========
-BOT_TOKEN = "8620716243:AAEG20UBhlyfdGHmC32umyK9qeCx2AGIChg"
+BOT_TOKEN = "8733508762:AAG8tJ_uxga6xlag34zGQ5fQH_NGrSqWprg"
 ADMIN_IDS = [8739344756]
 
 BASE_URL = "https://www.ujalahappiestonam.com/api/users"
